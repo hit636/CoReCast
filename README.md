@@ -1,7 +1,8 @@
 
 
 This is an official implementation of [CoReCast: Coherence-Guided Spectral Continuation with Residual Patch Refinement for Long-Term Time Series Forecasting].
-<img width="925" height="410" alt="image" src="https://github.com/user-attachments/assets/fa4a7515-ffc1-454f-9d12-9fb07bbd37c0" />
+
+<img width="2646" height="1352" alt="image" src="https://github.com/user-attachments/assets/e179094f-5ef0-4c8d-b553-5073bd8f11aa" />
 
 ### Prerequisites
 
